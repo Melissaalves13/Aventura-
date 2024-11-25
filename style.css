@@ -1,7 +1,7 @@
 body {
     background-color: black;
     color: white;
-    font-family: "Bai Jamjuree", sans-serif;
+    font-family: "Bai Jamjuree", sans-serif 50;
     display: flex;
     justify-content: center;
     align-items: center;
