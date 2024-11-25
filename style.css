@@ -2,7 +2,7 @@ body {
     background-color: black;
     color: white;
     font-family: "Bai Jamjuree", sans-serif;
-    display: flex;
+    display: none;
     justify-content: center;
     align-items: center;
     height: 700px;
