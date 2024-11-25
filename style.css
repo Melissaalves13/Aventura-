@@ -5,8 +5,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 7100px;
-    margin: 10;
+    height: 700px;
+    margin: 0;
 }
 
 button {
